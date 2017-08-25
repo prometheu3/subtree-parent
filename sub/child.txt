@@ -5,3 +5,4 @@ thid line
 fourth line
 parent:fiveth line
 parend sixth line
+child add seventh
